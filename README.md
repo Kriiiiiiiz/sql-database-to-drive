@@ -14,7 +14,7 @@ Keep in mind that if you want to back up more than one database you'll need to s
 
 1. Lets download the script to your /home directory
 ```bash
-wget -L https://https://raw.githubusercontent.com/Kriiiiiiiz/sql-database-to-drive/main/db_backup.sh -P /home/
+wget -L https://github.com/Kriiiiiiiz/sql-database-to-drive/releases/latest/download/db_backup.sh -P /home/
 ```
 2. Open it with your favorite text editor, i'll suggest nano
 ```bash
