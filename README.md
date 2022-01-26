@@ -23,7 +23,7 @@ nano /home/db_bakckup.sh
 3. Check lines from 3 to 16 and fill with the required credentials, when finished save the file.
 4. Set the correct permissions
 ```bash
-sudo chmod +x /home/db_bakckup.sh
+sudo chmod +x /home/db_backup.sh
 ```
 
 
